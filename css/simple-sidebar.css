@@ -21,7 +21,7 @@
 #wrapper.toggled {
     padding-left: 250px;
 }
-
+/*Changing the wrapper color*/
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -71,8 +71,10 @@
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999999;
+    color: #f00;
 }
+
+/*color on line 74 was changed to #f00*/
 
 .sidebar-nav li a:hover {
     text-decoration: none;
